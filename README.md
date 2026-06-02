@@ -65,26 +65,4 @@ CS Engineering student at IFET College of Engineering, Cuddalore.
 
 </div>
 
----
 
-## Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=SAN-CODER-1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
----
-
-## Top Contributed Repos
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=SAN-CODER-1&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=SAN-CODER-1&color=0e75b6&style=flat)
-
-</div>
